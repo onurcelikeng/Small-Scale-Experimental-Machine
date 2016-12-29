@@ -1,0 +1,38 @@
+﻿{"root": {
+	"systemreferance": [
+		{"name": "ORG"},
+		{"name": "END"}
+	],
+	"memoryreferance": [
+		{"name": "OR", "binary": "0001"},
+		{"name": "AND", "binary": "0010"},
+		{"name": "XOR", "binary": "0011"},
+		{"name": "ADD", "binary": "0100"},
+		{"name": "LDA", "binary": "0101"},
+		{"name": "STA", "binary": "0110"},
+		{"name": "BUN", "binary": "1000"},
+		{"name": "BSA", "binary": "1001"},
+		{"name": "ISZ", "binary": "1111"}
+	],
+	"registerreferance": [
+		{"name": "CLA", "binary": "0001"},
+		{"name": "SZA", "binary": "0010"},
+		{"name": "SNA", "binary": "0011"},
+		{"name": "CMA", "binary": "0100"},
+		{"name": "INC", "binary": "0101"},
+		{"name": "ASHR", "binary": "0111"},
+		{"name": "ASHL", "binary": "1000"},
+		{"name": "SZE", "binary": "0000"},
+		{"name": "HLT", "binary": "1001"}
+	],
+	"ioreference": [
+		{"name": "INP", "binary": "X111"},
+	],
+	"stackreferance": [
+		{"name": "Push", "binary": "X001"},
+		{"name": "POP", "binary": "X010"},
+		{"name": "SZEmpty", "binary": "X011"},
+		{"name": "SZFull", "binary": "X100"}
+	]
+	}
+}

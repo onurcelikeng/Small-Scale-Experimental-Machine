@@ -1,0 +1,8 @@
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\bin\Release\DSSEM.exe.config
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\bin\Release\DSSEM.exe
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\bin\Release\DSSEM.pdb
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\obj\Release\DSSEM.Form1.resources
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\obj\Release\DSSEM.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\obj\Release\DSSEM.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\obj\Release\DSSEM.exe
+c:\users\onur\documents\visual studio 2015\Projects\DSSEM\DSSEM\obj\Release\DSSEM.pdb
